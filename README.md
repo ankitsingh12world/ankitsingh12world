@@ -108,7 +108,7 @@
 <a href="https://www.linkedin.com/in/ankitsingh12world" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://x.com/AnkitSingh80861" target="_blank">
+<a href="https://x.com/AnkitSingh861" target="_blank">
 <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 <a href="mailto:ankitsingh12world@gmail.com">

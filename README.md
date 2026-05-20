@@ -96,9 +96,9 @@
 
 ---
 
+## Contribution Snake
 
-## 🐍 Contribution Snake
-![snake animation](https://raw.githubusercontent.com/ankitsingh12world/ankitsingh12world/output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/ankitsingh12world/ankitsingh12world/output/github-contribution-grid-snake.svg)
 
 ---
 

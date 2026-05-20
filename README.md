@@ -76,7 +76,7 @@
 | 📊 **Sales Insights** | Business KPIs and analytics to unlock insights | Python |
 | 🤖 **ML Prediction Model** | End-to-end ML pipeline with evaluation | Python • Scikit-Learn • Joblib |
 | 🧼 **Data Cleaning Automation** | Detects missing values, outliers & transforms data | Pandas • Missingno • NumPy |
-| 🧠 **AI-Powered Storyteller Dashboard** | Generates AI-driven insights | Python • Streamlit • Hugging Face |
+| 📈 **Customer Churn Prediction System** | End-to-end Machine Learning system to predict customer churn using behavioral and demographic data | Python • Scikit-Learn • Streamlit |
 | 👥 **HR Presence Insights Dashboard** | Employee attendance and workforce presence insights dashboard | Power BI |
 | 📊 **Credit Card Approval Prediction** | Adv Machine Learning Credit Approval Model | Python • Scikit-Learn |
 
